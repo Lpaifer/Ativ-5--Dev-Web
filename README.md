@@ -1,46 +1,21 @@
-História do Corinthians - Página Web
+# Atividade 5 – Desenvolvimento Web 💻
 
-Descrição
+Este é um projeto de site simples feito em HTML e CSS, com o tema voltado ao Sport Club Corinthians Paulista. O projeto foi versionado com Git, armazenado no GitHub e hospedado gratuitamente via Vercel.
 
-Este projeto é uma página web simples que apresenta a história do Sport Club Corinthians Paulista, um dos clubes mais tradicionais e vitoriosos do futebol brasileiro. A página é desenvolvida utilizando HTML, CSS e JavaScript para criar uma experiência interativa para o usuário.
+## ✅ Link do Site
+👉 [https://ativ-5-dev-web.vercel.app/corinthians.html](https://ativ-5-dev-web.vercel.app/corinthians.html)
 
-Funcionalidades
+## 🔗 Repositório GitHub
+👉 [https://github.com/Lpaifer/Ativ-5--Dev-Web](https://github.com/Lpaifer/Ativ-5--Dev-Web)
 
-Exibição de uma breve introdução sobre a história do Corinthians.
+## 🧰 Tecnologias
+- HTML5
+- CSS3
+- Git & GitHub
+- Vercel (deploy)
 
-Botão interativo que, ao ser clicado, revela os principais títulos do clube.
+## 📦 Versões
+- v1.0: Primeira versão estável com layout e conteúdo base.
 
-Layout estilizado com cores predominantes em preto e branco, representando as cores do time.
-
-Tecnologias Utilizadas
-
-HTML5: Estruturação da página.
-
-CSS3: Estilização e organização visual.
-
-JavaScript: Função interativa para exibir os títulos do clube.
-
-Como Utilizar
-
-Abra o arquivo index.html em qualquer navegador moderno.
-
-Leia a introdução sobre o Corinthians.
-
-Clique no botão "Ver títulos principais" para visualizar as conquistas do clube.
-Melhorias Futuras
-
-Adicionar mais detalhes sobre cada título conquistado.
-
-Inserir imagens históricas do clube.
-
-Criar uma linha do tempo interativa.
-
-Contribuição
-
-Caso queira contribuir com melhorias no projeto, sinta-se à vontade para sugerir alterações ou abrir um pull request.
-
-Autor
-
-Desenvolvido com paixão pelo futebol e programação. 😃⚽
-
-Sport Club Corinthians Paulista - "Vai, Corinthians!"
+## ✍️ Autor
+- Lucas Paifer (ou seu nome completo)
